@@ -8,9 +8,10 @@ since I believe it is a good way for either developping and learning.
 
 # File description:
 1. input_data.py: is for converting the input data into batches
-2. Layers: packages written by tensorflow
-3. train: the training configuration
-4. if you want to run, you can just do as the following:
+2. Layers.py: packages written by tensorflow
+3. train.py: the training configuration
+4. CNN.py: defines the neural network structure. The code lengh reveals the importance of packaging
+5. if you want to run, you can just do as the following:
    import train
    train.training()
-5. this project has not included validation and testing part.
+6. this project has not included validation and testing part.
