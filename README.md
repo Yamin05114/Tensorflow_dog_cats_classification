@@ -1,5 +1,5 @@
 # Tensorflow_dog_cat_classification
-This is the code for Kaggle competition:  dogs and cat classification
+This is the code for Kaggle competition:  dog and cat classification
 
 # Purpose:
 This project is for testing my codes of the file: Layers.py.
