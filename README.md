@@ -7,4 +7,4 @@ This is the code for Kaggle competition:  dogs and cat classification
 3. train: the training configuration
 4. if you want to run, you can just do as the following:
    import train
-   train.train()
+   train.training()
