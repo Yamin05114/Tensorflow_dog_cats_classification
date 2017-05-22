@@ -11,7 +11,7 @@ since I believe it is a good way for either developping and learning.
 2. Layers.py: packages written by tensorflow
 3. train.py: the training configuration
 4. CNN.py: defines the neural network structure. The code lengh reveals the importance of packaging
-5. if you want to run, you can just do as the following:
+5. If you want to run, you can just do as the following:
    import train
    train.training()
-6. this project has not included validation and testing part.
+6. This project has not included validation and testing part.
