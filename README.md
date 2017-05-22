@@ -1,4 +1,4 @@
-# Tensorflow_dog_cats_classification
+# Tensorflow_dog_cat_classification
 This is the code for Kaggle competition:  dogs and cat classification
 
 # File description:
